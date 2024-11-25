@@ -9,3 +9,6 @@ NIM     : 2241720083
 ## Praktikum 1: Dart Streams
 ### Soal 1
 ![alt text](assets/images/soal1.png)
+
+### Soal 2
+![alt text](assets/images/soal2.png)
