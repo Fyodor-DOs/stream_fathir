@@ -1,16 +1,11 @@
-# stream_fathir
+Nama    : Ahmed Fathir Syafaat
 
-A new Flutter project.
+Kelas   : TI - 3H
 
-## Getting Started
+NIM     : 2241720083
 
-This project is a starting point for a Flutter application.
+# #12 | Lanjutan State Management dengan Streams
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 1: Dart Streams
+### Soal 1
+![alt text](assets/images/soal1.png)
