@@ -19,3 +19,6 @@ Jelaskan fungsi keyword yield* pada kode tersebut!
 
 Apa maksud isi perintah kode tersebut?
 > membuat sebuah stream yang menghasilkan warna-warna secara periodik dari daftar warna dengan interval waktu 1 detik.
+
+### Soal 4
+![alt text](assets/images/soal4.gif)
