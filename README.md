@@ -35,3 +35,12 @@ Jelaskan maksud kode langkah 8 dan 10 tersebut!
 
 Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
 ![alt text](assets/images/soal6.gif)
+
+### Soal 7
+Jelaskan maksud kode langkah 13 sampai 15 tersebut!
+> - Langkah 13: Menyediakan mekanisme untuk menampilkan error melalui stream.
+> - Langkah 14: Menambahkan handler untuk mendeteksi error dari stream dan meresponsnya dengan menetapkan nilai -1 pada state.
+> - Langkah 15: Mengganti fungsionalitas memasukkan angka acak dengan menampilkan error sehingga memungkinkan pengujian handler error.
+
+Capture hasil praktikum
+![alt text](assets/images/soal7.gif)
