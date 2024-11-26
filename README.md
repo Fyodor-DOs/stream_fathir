@@ -12,3 +12,10 @@ NIM     : 2241720083
 
 ### Soal 2
 ![alt text](assets/images/soal2.png)
+
+### Soal 3
+Jelaskan fungsi keyword yield* pada kode tersebut!
+> yield* berfungsi untuk menghasilkan setiap elemen objek Stream secara berurutan.
+
+Apa maksud isi perintah kode tersebut?
+> membuat sebuah stream yang menghasilkan warna-warna secara periodik dari daftar warna dengan interval waktu 1 detik.
