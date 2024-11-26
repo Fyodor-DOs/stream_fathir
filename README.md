@@ -28,3 +28,10 @@ Jelaskan perbedaan menggunakan listen dan await for (langkah 9) !
 > - listen adalah metode dari class Stream yang digunakan untuk mendengarkan elemen-elemen yang dipancarkan oleh stream.
 > - await for adalah cara untuk membaca data dari stream secara asynchronous. Cara ini hanya bisa digunakan dalam fungsi dengan deklarasi async.
 
+### Soal 6
+Jelaskan maksud kode langkah 8 dan 10 tersebut!
+> - Langkah 8 (initState): Menyiapkan listener untuk mendengarkan data dari stream dan memperbarui tampilan aplikasi setiap kali data baru diterima.
+> - Langkah 10 (addRandomNumber): Menambahkan data angka acak ke dalam stream sehingga listener di langkah 8 dapat mendeteksi dan memperbarui state.
+
+Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+![alt text](assets/images/soal6.gif)
