@@ -22,3 +22,9 @@ Apa maksud isi perintah kode tersebut?
 
 ### Soal 4
 ![alt text](assets/images/soal4.gif)
+
+### Soal 5
+Jelaskan perbedaan menggunakan listen dan await for (langkah 9) !
+> - listen adalah metode dari class Stream yang digunakan untuk mendengarkan elemen-elemen yang dipancarkan oleh stream.
+> - await for adalah cara untuk membaca data dari stream secara asynchronous. Cara ini hanya bisa digunakan dalam fungsi dengan deklarasi async.
+
