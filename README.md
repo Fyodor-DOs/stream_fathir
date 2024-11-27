@@ -53,3 +53,12 @@ Jelaskan maksud kode langkah 1-3 tersebut!
 
 Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
 ![alt text](assets/images/soal8.gif)
+
+### Soal 9
+Jelaskan maksud kode langkah 2, 6 dan 8 tersebut!
+> - Langkah 2: Membuat listener untuk stream dan menghubungkannya dengan UI, lalu listener menangkap data baru dan memperbarui state.
+> - Langkah 6: Menutup stream controller dan membatalkan listener ketika widget dihapus untuk mencegah kebocoran memori.
+> - Langkah 8: Menambahkan angka acak ke stream, tetapi memastikan bahwa proses tersebut hanya dilakukan jika stream controller masih terbuka. Jika controller sudah ditutup, aplikasi menangani situasi tersebut dengan memperbarui state.
+
+Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+![alt text](assets/images/soal9.gif)
