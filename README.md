@@ -62,3 +62,16 @@ Jelaskan maksud kode langkah 2, 6 dan 8 tersebut!
 
 Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
 ![alt text](assets/images/soal9.gif)
+
+### Soal 10
+![alt text](assets/images/soal10.png)
+
+Jelaskan mengapa error itu bisa terjadi ?
+>  Error terjadi ketika subscription2 diaktifkan, hal ini terjadi karena stream hanya dapat didengarkan oleh satu pendengar secara default.
+
+### Soal 11
+Jelaskan mengapa hal itu bisa terjadi ?
+> Setelah menjadi broadcast stream, kedua listener menerima data yang sama. Karena setiap listener memodifikasi values, angka ditambahkan dua kali.
+
+Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+![alt text](assets/images/soal11.gif)
