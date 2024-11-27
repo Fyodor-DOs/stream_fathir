@@ -44,3 +44,12 @@ Jelaskan maksud kode langkah 13 sampai 15 tersebut!
 
 Capture hasil praktikum
 ![alt text](assets/images/soal7.gif)
+
+### Soal 8
+Jelaskan maksud kode langkah 1-3 tersebut!
+> - Langkah 1: Menyiapkan sebuah transformer untuk digunakan dalam mengolah data yang melewati stream.
+> - Langkah 2: Mendefinisikan bahwa transformer ini menerima stream bertipe int dan juga mengembalikan data bertipe int.
+> - Langkah 3: Menggunakan transformer yang telah didefinisikan di langkah 2 untuk memodifikasi aliran data. Data yang melewati stream akan diproses oleh transformer dengan mengalikan data dengan 10 atau mengganti error dengan -1.
+
+Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+![alt text](assets/images/soal8.gif)
